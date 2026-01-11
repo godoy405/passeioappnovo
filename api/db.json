@@ -1,0 +1,24 @@
+{
+  "categorias": [
+    {
+      "id": "1",
+      "nome": "Restaurantes",
+      "descricao": "Lugares para alimentação"
+    },
+    {
+      "id": "2",
+      "nome": "Shoppings",
+      "descricao": "Lugares para fazer compras e passear"
+    },
+    {
+      "id": "3",
+      "nome": "Parques",
+      "descricao": "Lugares para descansar"
+    },
+    {
+      "nome": "Parques de Diversão",
+      "descricao": "Brinquedos para diversão da família",
+      "id": "WnnZQUV"
+    }
+  ]
+}
