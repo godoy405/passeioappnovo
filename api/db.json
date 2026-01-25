@@ -24,6 +24,22 @@
       "urlFoto": "Teste",
       "avaliacao": "4",
       "id": 1
+    },
+    {
+      "nome": "Shopping JK",
+      "categoria": "Shoppings",
+      "localizacao": "São Paulo",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2LHYqyuQkrA2dLTzOWAqr0NsECOXtNTdXJA&s",
+      "avaliacao": "5",
+      "id": 2
+    },
+    {
+      "nome": "Cosi - Restaurante Italiano ",
+      "categoria": "Restaurantes",
+      "localizacao": "São Paulo",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfTQX6r7yikSiRSAxhLhJcc2T72cFO51uTLA&s",
+      "avaliacao": "4",
+      "id": 3
     }
   ]
 }
