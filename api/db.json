@@ -14,11 +14,16 @@
       "id": "3",
       "nome": "Parques",
       "descricao": "Lugares para descansar"
-    },
+    }
+  ],
+  "lugares": [
     {
-      "nome": "Parques de Diversão",
-      "descricao": "Brinquedos para diversão da família",
-      "id": "WnnZQUV"
+      "nome": "Parque do Ibirapuera",
+      "categoria": "Parques",
+      "localizacao": "São Paulo",
+      "urlFoto": "Teste",
+      "avaliacao": "4",
+      "id": 1
     }
   ]
 }
